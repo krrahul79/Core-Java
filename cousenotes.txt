@@ -1,0 +1,59 @@
+JDK - what is it and why do we need for java development
+java versions and LTS version, what is long term of support version
+
+machine has jvm
+and whatever the os like windows, linux or mac
+it needs jvm to run java application
+
+jvm only understands byte code
+jshell
+java code and in between there is java complier and it convert to byte code and it will be run in jvm
+
+there will be a lot of files to execute but the jvm would like to know which is the first file to execute that is the file which contains main method
+
+jre to run the application and it stands for java run time environment
+
+java is wora write once and run anywhere
+
+Data processing and store it in the database which is a permanent storage
+
+strongly typed language
+
+assignment operator
+type of datatypes
+primitive
+integer -> byte,short,int,long
+float -> double,float
+character ->
+boolean ->
+
+int - 4 bytes -> (-2^31) to (2^31 -1)
+
+byte - 1 byte
+short - 2 bytes
+int - 4 bytes
+long - 8 bytes
+
+float - 4 bytes
+double - 8 bytes
+
+by default the value will be double in java and you need to explicitly mention it
+float num = 5.6f
+ascii is just for english
+java follows unicode
+
+boolean
+long l = 5854l;
+
+boolean b = true;
+8 or 9 values are called literals
+
+for binaly number
+int num1 = 0b101
+for hexadecimal numbers
+int num1 = 0x7E
+
+int underscorenumbertosplit = 10_10_00_000
+
+12e10 is 12*10^10
+
